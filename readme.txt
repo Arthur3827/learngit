@@ -7,3 +7,4 @@ Creating a new branch is quick AND simple.
 merge with --no-ff mode 
 add message 4 dev2
 remember add --no--ff
+find an error,halt on dev2 branch and fix it on error101 branch
